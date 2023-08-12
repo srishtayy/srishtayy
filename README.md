@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srishti Dhir</h1>
-<h3 align="center">A passionate frontend Software engineer from India, Pursuing</h3>
+<h3 align="center">A passionate technology student from IIITA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtayy&label=Profile%20views&color=0e75b6&style=flat" alt="srishtayy" /> </p>
 
