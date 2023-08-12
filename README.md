@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtayy&label=Profile%20views&color=0e75b6&style=flat" alt="srishtayy" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java Springboot**
+- 💬 Previously worked with **Springboot,React frameworks**
 
 - 📫 How to reach me **srishtidhir652@gmail.com**
 
