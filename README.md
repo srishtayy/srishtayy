@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtayy&label=Profile%20views&color=0e75b6&style=flat" alt="srishtayy" /> </p>
 
-- 🌱 I’m currently learning **Java Springboot**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java Springboot**
 
 - 📫 How to reach me **srishtidhir652@gmail.com**
 
@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/_srishtayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_srishtayy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srishti-dhir-66b99b201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-dhir-66b99b201" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/i_m_srishti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_m_srishti" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/emrald2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emrald2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
